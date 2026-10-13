@@ -21,6 +21,7 @@ Selamat datang di halaman portofolio data saya! Saya memiliki ketertarikan menda
 | :--- | :--- | :--- | :--- |
 | **1. Retail Sales & RFM Customer Segmentation** | Evaluasi margin profitabilitas produk, analisis dampak diskon, dan pengelompokan pelanggan dengan metode RFM (*Recency, Frequency, Monetary*). | `Python`, `Pandas`, `Seaborn` | [Lihat Proyek](https://github.com/adityasptra14/retail-sales-and-rfm-analysis) |
 | **2. Subscription Customer Churn Analysis** | Analisis retensi pelanggan layanan berlangganan, *cohort masa aktif*, dan dampak tiket komplain terhadap risiko *churn*. | `SQL (JOIN, CTE)`, `SQLite`, `Python` | [Lihat Proyek](https://github.com/adityasptra14/subscription-churn-sql-analysis) |
+| **3. Supply Chain & Delivery Operations Analysis** | Evaluasi ketepatan waktu pengiriman (SLA), identifikasi *bottleneck lead time* gudang vs kurir, serta analisis stok (*Days of Inventory*). | `Python`, `Pandas`, `Matplotlib` | [Lihat Proyek](https://github.com/adityasptra14/supply-chain-delivery-analysis) |
 
 ---
 
